@@ -1,0 +1,196 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "1 - Primeiro Projeto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/1 - Primeiro Projeto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/1 - Primeiro Projeto.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "2 - Criando Variáveis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/2 - Criando Variáveis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2 - Criando Variáveis.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "3 - Manipulando Textos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/3 - Manipulando Textos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3 - Manipulando Textos.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "4 - Controle de Fluxo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/4 - Controle de Fluxo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/4 - Controle de Fluxo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "5 - Laços de Repetição/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/5 - Laços de Repetição.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/5 - Laços de Repetição.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "1 - Primeiro Projeto/1.0.0": {
+      "type": "project",
+      "path": "../1 - Primeiro Projeto/1 - Primeiro Projeto.vbproj",
+      "msbuildProject": "../1 - Primeiro Projeto/1 - Primeiro Projeto.vbproj"
+    },
+    "2 - Criando Variáveis/1.0.0": {
+      "type": "project",
+      "path": "../2 - Criando Variáveis/2 - Criando Variáveis.vbproj",
+      "msbuildProject": "../2 - Criando Variáveis/2 - Criando Variáveis.vbproj"
+    },
+    "3 - Manipulando Textos/1.0.0": {
+      "type": "project",
+      "path": "../3 - Manipulando Textos/3 - Manipulando Textos.vbproj",
+      "msbuildProject": "../3 - Manipulando Textos/3 - Manipulando Textos.vbproj"
+    },
+    "4 - Controle de Fluxo/1.0.0": {
+      "type": "project",
+      "path": "../4 - Controle de Fluxo/4 - Controle de Fluxo.vbproj",
+      "msbuildProject": "../4 - Controle de Fluxo/4 - Controle de Fluxo.vbproj"
+    },
+    "5 - Laços de Repetição/1.0.0": {
+      "type": "project",
+      "path": "../5 - Laços de Repetição/5 - Laços de Repetição.vbproj",
+      "msbuildProject": "../5 - Laços de Repetição/5 - Laços de Repetição.vbproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "1 - Primeiro Projeto >= 1.0.0",
+      "2 - Criando Variáveis >= 1.0.0",
+      "3 - Manipulando Textos >= 1.0.0",
+      "4 - Controle de Fluxo >= 1.0.0",
+      "5 - Laços de Repetição >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rafael.luz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj",
+      "projectName": "0 - Projeto Principal",
+      "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj",
+      "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj": {
+              "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj"
+            },
+            "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj": {
+              "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj"
+            },
+            "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {
+              "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj"
+            },
+            "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj": {
+              "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj"
+            },
+            "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj": {
+              "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

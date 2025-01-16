@@ -1,0 +1,432 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj",
+        "projectName": "0 - Projeto Principal",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\0 - Projeto Principal.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\0 - Projeto Principal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj": {
+                "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj"
+              },
+              "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj": {
+                "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj"
+              },
+              "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {
+                "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj"
+              },
+              "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj": {
+                "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj"
+              },
+              "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj": {
+                "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj",
+        "projectName": "1 - Primeiro Projeto",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\1 - Primeiro Projeto.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\1 - Primeiro Projeto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj",
+        "projectName": "2 - Criando Variáveis",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\2 - Criando Variáveis.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\2 - Criando Variáveis\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
+        "projectName": "3 - Manipulando Textos",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\3 - Manipulando Textos.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\3 - Manipulando Textos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj",
+        "projectName": "4 - Controle de Fluxo",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\4 - Controle de Fluxo.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\4 - Controle de Fluxo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj",
+        "projectName": "5 - Laços de Repetição",
+        "projectPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\5 - Laços de Repetição.vbproj",
+        "packagesPath": "C:\\Users\\rafael.luz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafael.luz\\Documents\\Curso Alura VB.Net\\Aprendendo VB\\5 - Laços de Repetição\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafael.luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0 - Projeto Principal/1.0.0": {
+        "runtime": {
+          "0 - Projeto Principal.dll": {}
+        }
+      },
+      "1 - Primeiro Projeto/1.0.0": {
+        "runtime": {
+          "1 - Primeiro Projeto.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "2 - Criando Variáveis/1.0.0": {
+        "runtime": {
+          "2 - Criando Variáveis.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "3 - Manipulando Textos/1.0.0": {
+        "runtime": {
+          "3 - Manipulando Textos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "4 - Controle de Fluxo/1.0.0": {
+        "runtime": {
+          "4 - Controle de Fluxo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "5 - Laços de Repetição/1.0.0": {
+        "runtime": {
+          "5 - Laços de Repetição.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0 - Projeto Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "1 - Primeiro Projeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2 - Criando Variáveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3 - Manipulando Textos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "4 - Controle de Fluxo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "5 - Laços de Repetição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
